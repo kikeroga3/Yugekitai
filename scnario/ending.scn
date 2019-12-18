@@ -1,0 +1,19 @@
+
+@GRP gcls.png
+@SND bgm36.mp3
+
+@GRP ygk247.png
+
+@ACT roll endroll_jp.ini
+
+@GRP gcls.png
+@TIM 220
+
+@SND OFF
+
+@INP
+
+
+@SCN epilogue.scn
+
+

@@ -1,0 +1,114 @@
+@GRP gcls.png
+                 ACT 2
+           Myth Investigation.
+@INP
+
+@GRP ygk230.png
+@SND bgm21.mp3
+Nobue:We should go into the ruins right now.
+@INP
+Saito:Right!
+Tomizawa:Let's go!
+@INP
+@SEL *In1 1:Enter^the^ancient^ruins
+@INP
+
+*In1
+@SND se42.wav
+@TIM 1
+@GCP 600 260 0 260 0 0
+@TIM 15
+@GCP 600 260 0 520 0 0
+@TIM 20
+@GCP 600 260 0 260 0 0
+@TIM 15
+Saito:Wh...what?
+Nobue:Strange¤ people were able to inside before...
+@INP
+
+@SEL *In2 1:Enter^the^ancient^ruins
+@INP
+
+*In2
+@SND se42.wav
+@TIM 1
+@GCP 600 260 0 260 0 0
+@TIM 15
+@GCP 600 260 0 520 0 0
+@TIM 20
+@GCP 600 260 0 260 0 0
+@TIM 15
+Tomizawa:W¤what the heck is this?
+Ikariya:We can't go in!
+@INP
+Kurosawa:It's a barrier! They must've made it with magic!
+@INP
+@SND OFF
+Yasuki:Argh...looks like we'll have to give up for now.
+@INP
+Saito:Wait a second!!
+Kurosawa:What is it!? Saito!!
+@INP
+
+@GRP ygk232.png
+Saito:It's Yoko's shoe...
+Kurosawa:That? What makes that important?
+@INP
+Saito:Ahhhh! Yoko's beautiful shooooe!!
+ 
+Saito crouched and smelled the odor of the shoe like a dog.
+@INP
+
+@GRP ygk231.png
+Tomizawa:Guys¤ let's go and leave him alone.
+ 
+Saito:Hey¤ wait up!!
+@INP
+
+@SAV Warriors
+
+@GRP ygk190.png
+@SND bgm18.mp3
+Nobue:I'm going to go to the library and research information about Susanoo.
+ 
+ There might be some important clues.
+@INP
+Kurosawa:Yasuki and I will be at the ruins¤ to try and break the seal...from there we can solve the mysteries of the ruins.
+@INP
+Ikariya:Tomi and I are going to Arai's house¤ to find more about Arai¤ to be able to rescue Yoko.
+@INP
+Saito:What should I do?
+@INP
+@SEL *00 1:Go^with^Kurosawa^and^Yasuki
+@SEL *01 2:Go^with^Nobue
+@SEL *02 3:Go^with^Ikariya^and^Tomizawa
+@INP
+
+*00
+Saito:I'll go with you guys.
+Kurosawa:All right!!
+ To the ruins! GO! GO!
+@INP
+@SND OFF
+@SND bgm14.mp3
+@SCN kurosawa.eng
+
+*01
+Saito:I'll assist you at the library.
+Nobue:Is that so?
+@INP
+@SND OFF
+@SND bgm12.mp3
+@SCN nobue.eng
+
+*02
+Saito:I'll join you.
+Ikariya:Okay¤ first we have to go to the school's office and find out where he lives.
+@INP
+Tomizawa:We better be prepared...
+@INP
+@SND OFF
+@SND bgm20.mp3
+@SCN ken1.eng
+
+

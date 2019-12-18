@@ -1,0 +1,38 @@
+@GRP ygk186.png
+@SND OFF
+@SND se05.wav
+Arai:You...fool¤ I...am...Susanooo.....
+ 
+Saito:Yes! I won!
+@INP
+
+@GRP ygk163.png
+Saito:So...Is this what the face of a dead person looks like...He seems to be dead...
+@INP
+
+@GRP ygk142.png
+@SND se14.wav
+@SND se29.wav
+@TIM 30
+@GCP 1
+@TIM 15
+@GCP 2
+@TIM 15
+@GCP 3
+@TIM 15
+@GCP 4
+@TIM 15
+@GCP 5
+@TIM 15
+@GCP 6
+@TIM 15
+@GCP 7
+@TIM 15
+@GCP 8
+@SND se03.wav
+Saito:Geeh!!
+@INP
+
+@SCN reversal.eng
+
+

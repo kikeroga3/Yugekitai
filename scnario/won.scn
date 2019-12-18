@@ -1,0 +1,37 @@
+@GRP ygk186.png
+@SND OFF
+@SND se05.wav
+新井「ぐ‥アッ‥馬鹿な…スサノオである、この俺が…‥」
+斎藤「僕が勝った‥！！僕が！！」
+@INP
+
+@GRP ygk163.png
+斎藤「どれ‥死に顔などを見てみるか……死んでるよな…」
+@INP
+
+@GRP ygk142.png
+@SND se14.wav
+@SND se29.wav
+@TIM 30
+@GCP 1
+@TIM 15
+@GCP 2
+@TIM 15
+@GCP 3
+@TIM 15
+@GCP 4
+@TIM 15
+@GCP 5
+@TIM 15
+@GCP 6
+@TIM 15
+@GCP 7
+@TIM 15
+@GCP 8
+@SND se03.wav
+斎藤「げえっ！！」
+@INP
+
+@SCN reversal.scn
+
+
